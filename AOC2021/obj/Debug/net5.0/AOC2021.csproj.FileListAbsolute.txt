@@ -1,0 +1,17 @@
+C:\Visual Studio Projects\AOC2021\AOC2021\bin\Debug\net5.0\AOC2021.exe
+C:\Visual Studio Projects\AOC2021\AOC2021\bin\Debug\net5.0\AOC2021.deps.json
+C:\Visual Studio Projects\AOC2021\AOC2021\bin\Debug\net5.0\AOC2021.runtimeconfig.json
+C:\Visual Studio Projects\AOC2021\AOC2021\bin\Debug\net5.0\AOC2021.runtimeconfig.dev.json
+C:\Visual Studio Projects\AOC2021\AOC2021\bin\Debug\net5.0\AOC2021.dll
+C:\Visual Studio Projects\AOC2021\AOC2021\bin\Debug\net5.0\ref\AOC2021.dll
+C:\Visual Studio Projects\AOC2021\AOC2021\bin\Debug\net5.0\AOC2021.pdb
+C:\Visual Studio Projects\AOC2021\AOC2021\obj\Debug\net5.0\AOC2021.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\AOC2021\AOC2021\obj\Debug\net5.0\AOC2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\AOC2021\AOC2021\obj\Debug\net5.0\AOC2021.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\AOC2021\AOC2021\obj\Debug\net5.0\AOC2021.AssemblyInfo.cs
+C:\Visual Studio Projects\AOC2021\AOC2021\obj\Debug\net5.0\AOC2021.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\AOC2021\AOC2021\obj\Debug\net5.0\AOC2021.dll
+C:\Visual Studio Projects\AOC2021\AOC2021\obj\Debug\net5.0\ref\AOC2021.dll
+C:\Visual Studio Projects\AOC2021\AOC2021\obj\Debug\net5.0\AOC2021.pdb
+C:\Visual Studio Projects\AOC2021\AOC2021\obj\Debug\net5.0\AOC2021.genruntimeconfig.cache
+C:\Visual Studio Projects\AOC2021\AOC2021\bin\Debug\net5.0\Inputs\PuzzleOneInput.txt
